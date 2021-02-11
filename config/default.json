@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecretToken": "creating the first SPA",
+  "mongoUri": "mongodb+srv://tyk_admin:nimda_kyt_1@cluster0.yms5i.mongodb.net/tyk_db?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
