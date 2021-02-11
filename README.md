@@ -1,1 +1,1 @@
-"# TYK" 
+"TYK - Test Your Knowledge" 
