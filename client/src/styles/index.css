@@ -1,0 +1,5 @@
+@import "../../node_modules/materialize-css/dist/css/materialize.min.css";
+
+.nav-bar-content {
+    padding: 0 2rem 0 2rem;
+}
